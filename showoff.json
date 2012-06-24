@@ -1,0 +1,7 @@
+{
+  "name": "Metatalk",
+  "description": "A talk about talks",
+  "sections": [
+    {"section":"slides"}
+  ]
+}
