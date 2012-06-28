@@ -153,7 +153,7 @@ What would jesus do?
 ![9](stair9.png)
 
 !SLIDE title-slide
-# Medium + Audience #
+# Medium + Content #
 
 !SLIDE center
 ![pulp1](pulp1.jpg)
@@ -177,7 +177,7 @@ What would jesus do?
 ![pulp1](pulp7.jpg)
 
 !SLIDE title-slide
-## Adapt content to audience ##
+## Pick the right tools ##
 
 !SLIDE center
 ![8](stair10.png)
@@ -360,6 +360,8 @@ vs
 # @otikik #
 ## Available for hire :) ##
 
+!SLIDE center
+![salary](salary.png)
 
 !SLIDE title-slide
 # Questions? #
